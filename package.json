@@ -2,7 +2,7 @@
   "name": "transaltion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://shloybuff.github.io/tanail",
+  "homepage": "http://shloybuff.github.io/tanails",
   "dependencies": {
     "@react-pdf/renderer": "^2.0.0-beta.6",
     "@testing-library/jest-dom": "^4.2.4",
